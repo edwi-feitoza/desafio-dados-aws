@@ -1,0 +1,1 @@
+resource "random_uuid" "desafio-dados-uuid" {}
